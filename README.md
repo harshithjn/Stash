@@ -17,8 +17,8 @@ This repository contains the source code and documentation for the Digital Asset
 
 ## 🧑‍💻 Development Team (Stash)
 
-- [@jeevitha-14s](https://github.com/jeevitha-14s) - Scrum Master
-- [@harshithjn](https://github.com/harshithjn) - Developer Team
+- [@harshithjn](https://github.com/harshithjn) - Scrum Master
+- [@jeevitha-14s](https://github.com/jeevitha-14s) - Developer Team
 - [@KARTIKSUMBLY](https://github.com/KARTIKSUMBLY) - Developer Team
 - [@HemaShree0408](https://github.com/HemaShree0408) - Developer Team
 
